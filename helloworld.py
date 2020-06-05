@@ -1,3 +1,3 @@
 # This is a simple helloworld python script
 
-print("HelloWorld!")
+print("Hello My World!")
